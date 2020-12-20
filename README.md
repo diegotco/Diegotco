@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python while helping some open source projects
+🌱 I’m currently learning Python while helping some open source projects <br>
 
 📫 How to reach me: <br>
 -Twitter: @DiegoLeonU <br>
 -LinkedIn: https://www.linkedin.com/in/diegoleonullauri/
 
--Feel free to send issues or pull request in order to improve my profile. I appreaciate a lot!
+-Feel free to send issues or pull request in order to improve my profile. I appreaciate a lot! <br>
+
+***Note***: I've learned this from the following Youtube videos:<br>
+1. https://www.youtube.com/watch?v=-otyb0ngsa4&feature=emb_logo
+2. https://www.youtube.com/watch?v=3HqN-YS8eso
 
 <!--
 **diegotco/Diegotco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
