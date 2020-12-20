@@ -4,7 +4,6 @@
 
 📫 How to reach me: <br>
 -Twitter: @DiegoLeonU <br>
--LinkedIn: https://www.linkedin.com/in/diegoleonullauri/
 
 -Feel free to send issues or pull request in order to improve my profile. I appreaciate a lot! <br>
 
