@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Python while helping some open source projects
+
 <!--
 **diegotco/Diegotco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
