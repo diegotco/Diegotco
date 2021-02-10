@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python while helping some open source projects <br>
+🌱 I’m currently learning Java while helping some open source projects <br>
 
 📫 How to reach me: <br>
 -Twitter: @DiegoLeonU <br>
